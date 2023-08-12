@@ -61,5 +61,12 @@
         "name": "FENDI F4300",
         "url": "./glassesImage/v9.png",
         "desc": "Light pink square lenses define these sunglasses, ending with amother of pearl effect tip. "
+    },
+    {
+        "id": 10,
+        "price": "",
+        "name": "",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png",
+        "desc": "Choose glasses below to try it on the model"
     }
 ]
